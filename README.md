@@ -50,20 +50,23 @@
 ###
 ### Connect with me:
 <div>
-
-<a href="https://www.linkedin.com/in/aditya-seth-270833233" alt="Aditya Seth | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
-<a href="https://instagram.com/codificador_anonimo?igshid=YmMyMTA2M2Y=" alt="codificador_anonimo | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
-<a href="mailto:adityaseth.cse@gmail.com" alt="Aditya Seth | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"> 
-<a href="https://wa.me//+919903342634" alt="Aditya Seth | WhatsApp"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
-<a href="https://medium.com/@adityaseth777" alt="Aditya Seth | Medium"><img width="48" height="48" src="https://img.icons8.com/arcade/48/000000/medium-logo.png" alt="medium-logo"/>
+  <div>
+<img align="right" height="169" src="https://media2.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47xqyrkil2jxirbcpvnvth2w17m4ihetd2ikvltild&ep=v1_gifs_related&rid=giphy.gif&ct=s"  />
+</div>
+<div>
+<a href="https://www.linkedin.com/in/subham-maity-6196aa248" alt="Subham | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="https://instagram.com/ursmile_makesmy_day" alt="ur-smile-my-day | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
+<a href="mailto:subhammaity6827@gmail.com" alt="subham-maity | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"> 
+<a href="https://wa.me//+918638026144" alt="subham | WhatsApp"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png"/><br>
 <a href="https://twitter.com/AdityaS50607555" alt="Aditya Seth | Twitter"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/> 
 <a href="https://discordapp.com/users/Aditya Seth#4753" alt="Aditya Seth | Discord"><img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png">
-<a href="https://www.hackerrank.com/adityaseth_cse" alt="Aditya Seth | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png">
+<a href="https://www.hackerrank.com/adityaseth_cse" alt="Aditya Seth | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"> <br>
 <a href="https://www.cloudskillsboost.google/public_profiles/b8eb9de8-382a-4ff8-9088-7ea496aac45d" alt="Aditya Seth | Google Cloud Skills"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"> 
 <a href="https://www.quora.com/profile/Aditya-Seth-133?ch=10&oid=1734427191&share=5335f444&srid=hzXNBO&target_type=user" alt="Aditya Seth | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/>
 <a href="https://auth.geeksforgeeks.org/user/adityaseth_777/" alt="Aditya Seth | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
+</div>
+  
 
-<img align="right" height="169" src="https://media2.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif?cid=ecf05e47xqyrkil2jxirbcpvnvth2w17m4ihetd2ikvltild&ep=v1_gifs_related&rid=giphy.gif&ct=s"  />
 
   </div>
 
