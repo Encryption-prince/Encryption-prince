@@ -56,14 +56,12 @@
 <div>
 <a href="https://www.linkedin.com/in/subham-maity-6196aa248" alt="Subham | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://instagram.com/ursmile_makesmy_day" alt="ur-smile-my-day | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
-<a href="mailto:subhammaity6827@gmail.com" alt="subham-maity | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"> 
-<a href="https://wa.me//+918638026144" alt="subham | WhatsApp"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png"/><br>
-<a href="https://twitter.com/AdityaS50607555" alt="Aditya Seth | Twitter"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/> 
-<a href="https://discordapp.com/users/Aditya Seth#4753" alt="Aditya Seth | Discord"><img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png">
-<a href="https://www.hackerrank.com/adityaseth_cse" alt="Aditya Seth | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"> <br>
-<a href="https://www.cloudskillsboost.google/public_profiles/b8eb9de8-382a-4ff8-9088-7ea496aac45d" alt="Aditya Seth | Google Cloud Skills"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"> 
-<a href="https://www.quora.com/profile/Aditya-Seth-133?ch=10&oid=1734427191&share=5335f444&srid=hzXNBO&target_type=user" alt="Aditya Seth | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/>
-<a href="https://auth.geeksforgeeks.org/user/adityaseth_777/" alt="Aditya Seth | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
+<a href="mailto:subhammaity6827@gmail.com" alt="subham-maity | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"> <br>
+<a href="https://wa.me//+918638026144" alt="subham | WhatsApp"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
+<a href="https://discordapp.com/users/subhx003#9406" alt="Subham | Discord"><img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png">
+<a href="https://www.hackerrank.com/subhammaity6827" alt="Subham | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"> <br> 
+<a href="https://www.quora.com/profile/Subham-Maity-26" alt="Subham | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/>
+<a href="https://auth.geeksforgeeks.org/user/subhammaz5u0/practice" alt="Subham | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
 </div>
   
 
