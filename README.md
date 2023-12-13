@@ -1,8 +1,12 @@
-<h1 align="left">Hellow World👋</h1>
+<h1 align="left">Hellow World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 ###
 
-<p align="left">My name is Subham and I'm a SDE enthusiast and a Tech-Explorer.</p>
+<p align="left">My name is Subham and I'm a</p> 
+
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SDE+Enthusiast;Tech-Explorer;Front-end+Developer)](https://git.io/typing-svg)
 
 ###
 
@@ -10,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017.<br>📚 I'm currently presuing Betch in IT.<br>🎯 Goals: MERN Stack, Database, Ai ML, Android Dev.<br>🎲 Fun fact: I'm a pro at juggling multiple coding languages and assignments, just like a real multitasking wizard! 🧙‍♂️💻 But when it comes to juggling actual objects, I might need a bit more practice! 😅</p>
+<p align="left">✨ Creating bugs since 2017.<br>📚 I'm currently presuing Betch in IT.<br>🎯 Future Goals: Backend Dev, Database, Blockchain, Android Dev.<br>🎲 Fun fact: I'm a pro at juggling multiple coding languages and assignments, just like a real multitasking wizard! 🧙‍♂️💻 But when it comes to juggling actual objects, I might need a bit more practice! 😅</p>
 
 ###
 
