@@ -1,6 +1,7 @@
 <h1 align="left">Hellow World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 ###
+![](https://komarev.com/ghpvc/?username=Encryption-prince&label=PROFILE+VIEWS)
 
 <p align="left">My name is Subham and I'm a</p> 
 
@@ -67,9 +68,16 @@
 <a href="https://www.quora.com/profile/Subham-Maity-26" alt="Subham | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/>
 <a href="https://auth.geeksforgeeks.org/user/subhammaz5u0/practice" alt="Subham | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
 </div>
-  
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Encryption-prince&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 
-  </div>
+
+
 
 
