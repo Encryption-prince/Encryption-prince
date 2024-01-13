@@ -1,13 +1,17 @@
+<img src="https://share.creavite.co/65a305eb7f65e4783b3918dd.gif" width="100%">
+
 <h1 align="left">Hellow World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 ###
 ![](https://komarev.com/ghpvc/?username=Encryption-prince&label=PROFILE+VIEWS)
 
-<p align="left">My name is Subham and I'm a</p> 
+<p align="center">My name is Subham and I'm a</p> 
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SDE+Enthusiast;Tech-Explorer;Front-end+Developer)](https://git.io/typing-svg)
+<p  align="center" >
+  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <img src="https://readme-typing-svg.demolab.com/?lines=SDE+Enthusiast;Tech-Explorer;Front-end+Developer" alt="Typing SVG">
+</p>
 
 ###
 
