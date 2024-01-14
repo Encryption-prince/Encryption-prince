@@ -5,7 +5,7 @@
 ###
 ![](https://komarev.com/ghpvc/?username=Encryption-prince&label=PROFILE+VIEWS)
 
-<p align="center">My name is Subham and I'm a</p> 
+### <p align="center">My name is Subham and I'm a</p> 
 
 ###
 
@@ -15,15 +15,26 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<div align="center">
+  
+# 💫About Me :
+✨ Creating bugs since 2017.
+  
+📚 I'm currently presuing Betch in IT.
+
+  🎯 Future Goals: Backend Dev, Database, Blockchain, Android Dev.
+
+  🎲 Fun fact: I'm a pro at juggling multiple coding languages and assignments, just like a real multitasking wizard!🧙‍♂️<br>💻 But when it comes to juggling actual objects, I might need a bit more practice! 😅
+
+
+  📧 Mail me at "subhammaity6827@gmail.com"
+
+ </div>
+
 
 ###
 
-<p align="left">✨ Creating bugs since 2017.<br>📚 I'm currently presuing Betch in IT.<br>🎯 Future Goals: Backend Dev, Database, Blockchain, Android Dev.<br>🎲 Fun fact: I'm a pro at juggling multiple coding languages and assignments, just like a real multitasking wizard! 🧙‍♂️💻 But when it comes to juggling actual objects, I might need a bit more practice! 😅</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -80,6 +91,16 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=Encryption-prince&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
+###
+<br>
+<div align="center">
+  
+# Random Quote
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
+
+
+---
 
 
 
