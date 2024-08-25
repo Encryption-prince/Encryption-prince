@@ -5,13 +5,20 @@
 ###
 ![](https://komarev.com/ghpvc/?username=Encryption-prince&label=PROFILE+VIEWS)
 
-### <p align="center">My name is Subham and I'm a</p> 
+### 
 
-###
+<div align="center">
+  
+## My name is Subham and I'm a 
 
-<p  align="center" >
-  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <img src="https://readme-typing-svg.demolab.com/?lines=SDE+Enthusiast;Tech-Explorer;Front-end+Developer" alt="Typing SVG">
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=500&size=28&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=SDE+Enthusiast;Tech-Explorer;Front-End+Developer;Competitive+Coder" alt="Typing SVG">
 </p>
+
+ 
+
 
 ###
 
