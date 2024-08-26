@@ -17,7 +17,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=500&size=28&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=SDE+Enthusiast;Tech-Explorer;Front-End+Developer;Competitive+Coder" alt="Typing SVG">
 </p>
 
- 
+
+<img alt="Developer Pic" src="https://github.com/Subham-Maity/subham-maity/blob/master/src/robot.gif?raw=true" width="350"/>
 
 
 ###
