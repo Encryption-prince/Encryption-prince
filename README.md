@@ -46,48 +46,87 @@
 <br>
 <br>
 
-# 💻 Tech Stack:
+# 💻 My Inventory:
+
+## Programming languages
+
+<p>
+    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/c++.svg" alt="C++" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">
+<!--     <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px"> -->
+</p>
+
+## Frameworks and libraries
+
+<p>
+  <img src="https://github.com/SobhanBose/SobhanBose/blob/f707101d8ca93f88168bd4bcaf3ccb4fa3528a32/res/svg/dev/frameworks/%20sklearn.svg" alt="scikit-learn" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/SobhanBose/SobhanBose/blob/debd8e7e76cffd544dad4b9e4023eea5af2199d0/res/svg/dev/frameworks/tensorflow.svg" alt="tensorflow" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/numpy.svg" alt="NumPy" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/pygame.svg" alt="Pygame" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/fastapi.svg" alt="FastAPI" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/flask.svg" alt="Flask" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/arduino.svg" alt="Arduino" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
+</p>
+
+## Services
+
+<p>
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/codechef.svg" alt="CodeChef" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/hackerrank.svg" alt="Hackerrank" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/leetcode.svg" alt="Leetcode" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/codeforces.svg" alt="Codeforces" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/social/stackoverflow.svg" alt="Stackoverflow" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/office_365.svg" alt="Office 365" style="vertical-align:top margin:6px 4px">
+</p>
+
+## Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/jetbrains_pycharm.svg" alt="PyCharm" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ IDEA" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/eclipse.svg" alt="Eclipse" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/android_studio.svg" alt="Android Studio" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/powershell.svg" alt="Powershell" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/vmware.svg" alt="VMware" style="vertical-align:top margin:6px 4px">
+</p>
+
+## Databases and cloud hosting
+
+<p>
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/mysql.svg" alt="MySQL" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/postgressql.svg" alt="PostgreSQL" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/sqlite.svg" alt="SQLite" style="vertical-align:top margin:6px 4px">
+</p>
+
+## Miscellaneous
+
+<p>
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/ai.svg" alt="Artifical Intelligence" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/datascience.svg" alt="Data Science" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/iot.svg" alt="IoT" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/cloud.svg" alt="Cloud" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/gamedev.svg" alt="Game Development" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/chrome.svg" alt="Google Chrome" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/firefox.svg" alt="Firefox" style="vertical-align:top margin:6px 4px">
+</p>
+
+## Workstation
+<p>
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/windows11.svg" alt="Windows 11" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/ryzen5600h.svg" alt="AMD Ryzen 5 5600H" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/nvidiartx3050.svg" alt="Nvidia Geforce RTX 3050" style="vertical-align:top margin:6px 4px">
+</p>
+
+<br>
 
 
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus" height="30" alt="c++ logo"  />
-  <img width="12" />
 
-</div>
 
 ###
 
@@ -144,6 +183,46 @@
 ![](https://holopin.me/Encryption-prince)
 
 [![An image of @encryptionprince's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/encryptionprince)](https://holopin.io/@encryptionprince)
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus" height="30" alt="c++ logo"  />
+  <img width="12" />
+
+</div>
 
 ---
 
