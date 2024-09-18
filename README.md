@@ -51,75 +51,90 @@
 ## Programming languages
 
 <p>
-    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/c++.svg" alt="C++" style="vertical-align:top margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top margin:6px 4px">
-<!--     <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px"> -->
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/programing/java.svg" alt="Java" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/programing/c.svg" alt="C" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/programing/c++.svg" alt="C++" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/programing/dart_colour.svg" alt="Dart" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/programing/kotlin.svg" alt="Kotlin" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/programing/python.svg" alt="Python" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/programing/html.svg" alt="Html" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/programing/css3.svg" alt="Css3" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/programing/js.svg" alt="JS" style="vertical-align:top margin:6px 4px">
 </p>
 
-## Frameworks and libraries
+## Frameworks
 
 <p>
-  <img src="https://github.com/SobhanBose/SobhanBose/blob/f707101d8ca93f88168bd4bcaf3ccb4fa3528a32/res/svg/dev/frameworks/%20sklearn.svg" alt="scikit-learn" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/SobhanBose/SobhanBose/blob/debd8e7e76cffd544dad4b9e4023eea5af2199d0/res/svg/dev/frameworks/tensorflow.svg" alt="tensorflow" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/numpy.svg" alt="NumPy" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/pygame.svg" alt="Pygame" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/fastapi.svg" alt="FastAPI" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/flask.svg" alt="Flask" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/arduino.svg" alt="Arduino" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/frameworks/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/framework/spring.svg" alt="Spring" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/framework/springboot.svg" alt="SpringBoot" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/framework/bootstrap.svg" alt="Bootstrap" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/framework/tailwind.svg" alt="Tailwind" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/framework/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
+  
 </p>
 
-## Services
+## Competitive Coding
 
 <p>
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/codechef.svg" alt="CodeChef" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/hackerrank.svg" alt="Hackerrank" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/leetcode.svg" alt="Leetcode" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/codeforces.svg" alt="Codeforces" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/social/stackoverflow.svg" alt="Stackoverflow" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/office_365.svg" alt="Office 365" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/competitive coding/leetcode.svg" alt="Leetcode" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/competitive coding/gfg.svg" alt="GFG" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/competitive coding/codechef.svg" alt="Codechef" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/competitive coding/codeforces.svg" alt="Codeforces" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/competitive coding/hackerrank.svg" alt="Hackerrank" style="vertical-align:top margin:6px 4px">
+ 
 </p>
 
-## Tools
+## IDEs
 
 <p>
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/jetbrains_pycharm.svg" alt="PyCharm" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/jetbrains_intellij.svg" alt="IntelliJ IDEA" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/eclipse.svg" alt="Eclipse" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/android_studio.svg" alt="Android Studio" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/powershell.svg" alt="Powershell" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/tools/vmware.svg" alt="VMware" style="vertical-align:top margin:6px 4px">
+ <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/IDEs/visualstudio_code.svg" alt="VsCode" style="vertical-align:top margin:6px 4px">
+  
+ <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/IDEs/jetbrains_intellij.svg" alt="Intellij Idea" style="vertical-align:top margin:6px 4px">
+ 
+ <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/IDEs/eclipse.svg" alt="Eclipse" style="vertical-align:top margin:6px 4px">
+ 
+ <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/IDEs/Component 1.svg" alt="Jupyter Notebook" style="vertical-align:top margin:6px 4px">
+ 
+ <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/IDEs/android_studio.svg" alt="Android Studio" style="vertical-align:top margin:6px 4px">
+ 
+ <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/IDEs/powershell.svg" alt="Powershell" style="vertical-align:top margin:6px 4px">
+ 
+ <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/IDEs/bash.svg" alt="Bash" style="vertical-align:top margin:6px 4px">
 </p>
 
-## Databases and cloud hosting
+## Databases
 
 <p>
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/mysql.svg" alt="MySQL" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/postgressql.svg" alt="PostgreSQL" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/services/sqlite.svg" alt="SQLite" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/Database/hibernate.svg" alt="Hibernate" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/Database/mysql.svg" alt="MySQL" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/Database/oracle.svg" alt="Orcale" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/Database/postgressql.svg" alt="Postgressql" style="vertical-align:top margin:6px 4px">
+</p>
+
+## Workstation
+<p>
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/workstation/windows11.svg" alt="Windows11" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/workstation/ryzen5600h.svg" alt="Ryzen5600h" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/workstation/nvidiartx3050.svg" alt="Nvidia Rtx3050" style="vertical-align:top margin:6px 4px">
+</p>
+
+## OS
+<p>
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/OS/windows11.jpg" alt="Windows11" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/OS/nvidiartx3050-1.jpg" alt="Ubuntu" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/OS/nvidiartx3050.jpg" alt="Fedora" style="vertical-align:top margin:6px 4px">
 </p>
 
 ## Miscellaneous
 
 <p>
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/ai.svg" alt="Artifical Intelligence" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/datascience.svg" alt="Data Science" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/iot.svg" alt="IoT" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/cloud.svg" alt="Cloud" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/gamedev.svg" alt="Game Development" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/chrome.svg" alt="Google Chrome" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/dev/misc/firefox.svg" alt="Firefox" style="vertical-align:top margin:6px 4px">
-</p>
-
-## Workstation
-<p>
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/windows11.svg" alt="Windows 11" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/ryzen5600h.svg" alt="AMD Ryzen 5 5600H" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/SobhanBose/SobhanBose/main/res/svg/devices/nvidiartx3050.svg" alt="Nvidia Geforce RTX 3050" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/others/web.svg" alt="Web" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/others/mobile.svg" alt="Mobile" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/others/chrome.svg" alt="Chrome" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/others/firefox.svg" alt="Firefox" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/others/edge.svg" alt="Edge" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/others/security.svg" alt="Security" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/others/chrome-1.svg" alt="Canva" style="vertical-align:top margin:6px 4px">
 </p>
 
 <br>
