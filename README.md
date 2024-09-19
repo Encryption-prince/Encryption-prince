@@ -77,7 +77,6 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/competitive coding/leetcode.svg" alt="Leetcode" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/competitive coding/gfg.svg" alt="GFG" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/competitive coding/codechef.svg" alt="Codechef" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/competitive coding/codeforces.svg" alt="Codeforces" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/main/svgs readme/competitive coding/hackerrank.svg" alt="Hackerrank" style="vertical-align:top margin:6px 4px">
