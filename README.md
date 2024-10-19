@@ -159,7 +159,6 @@
   <div>
 <img align="right" height="200"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Ntc3J3ejBxbDk0M2hpdnM0c3E5dDhwMGt6bHA1Y2h2ZXFnZnV6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
-  <br><br>
 <div>
 <a href="https://www.linkedin.com/in/subham-maity-6196aa248" alt="Subham | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://instagram.com/ursmile_makesmy_day" alt="ur-smile-my-day | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
