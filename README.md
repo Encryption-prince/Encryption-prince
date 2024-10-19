@@ -157,17 +157,19 @@
 ### Connect with me:
 <div>
   <div>
-<img align="right" height="300"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Ntc3J3ejBxbDk0M2hpdnM0c3E5dDhwMGt6bHA1Y2h2ZXFnZnV6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
+<img align="right" height="200"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Ntc3J3ejBxbDk0M2hpdnM0c3E5dDhwMGt6bHA1Y2h2ZXFnZnV6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
+  <br><br>
 <div>
 <a href="https://www.linkedin.com/in/subham-maity-6196aa248" alt="Subham | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://instagram.com/ursmile_makesmy_day" alt="ur-smile-my-day | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
-<a href="mailto:subhammaity6827@gmail.com" alt="subham-maity | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"> <br>
+<a href="mailto:subhammaity6827@gmail.com" alt="subham-maity | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"> 
 <a href="https://wa.me//+918638026144" alt="subham | WhatsApp"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
 <a href="https://discordapp.com/users/subhx003#9406" alt="Subham | Discord"><img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png">
-<a href="https://www.hackerrank.com/subhammaity6827" alt="Subham | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"> <br> 
+<a href="https://www.hackerrank.com/subhammaity6827" alt="Subham | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png">  
 <a href="https://www.quora.com/profile/Subham-Maity-26" alt="Subham | Quora"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-quora-is-a-question-and-answer-website-where-questions-are-asked-logo-shadow-tal-revivo.png"/>
 <a href="https://auth.geeksforgeeks.org/user/subhammaz5u0/practice" alt="Subham | GeeksforGeeks"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png"/>
+
 </div>
 </div>
 <br>
