@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=500&size=28&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=SDE+Enthusiast;Tech-Explorer;Front-End+Developer;Competitive+Coder" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=500&size=28&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=SDE+Enthusiast;Tech-Explorer;Java+Developer;Competitive+Coder" alt="Typing SVG">
 </p>
 
 <div align="center">
