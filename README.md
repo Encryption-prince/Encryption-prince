@@ -219,13 +219,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/output/snake.svg" alt="Snake animation" />
-
-###
-
----
-
-
 
 
 
