@@ -44,7 +44,16 @@
 
 ###
 <br>
-<br>
+
+###
+<div align="center">
+  <h2>Tune in to My Spotify🎶</h2>
+  <a href="https://open.spotify.com/user/vasf96ut0mxg780mqfyx8hyp1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vasf96ut0mxg780mqfyx8hyp1&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 # 💻 My Inventory:
 
@@ -208,7 +217,11 @@
 
 [![An image of @encryptionprince's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/encryptionprince)](https://holopin.io/@encryptionprince)
 
+---
 
+<img src="https://raw.githubusercontent.com/Encryption-prince/Encryption-prince/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
