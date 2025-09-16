@@ -41,8 +41,10 @@
 
  </div>
 
+ <br>
+
 <div align="center">
-  <img src="github_india_video.gif" width="100%" style="object-fit: cover; height: 350px; object-position: center;" alt="GitHub India Video">
+  <img src="github_india_video.gif" width="100%" style="object-fit: cover; width: 200px; height: 300px; object-position: center;" alt="GitHub India Video">
 </div>
 
 
