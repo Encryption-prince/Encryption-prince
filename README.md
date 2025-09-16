@@ -41,6 +41,13 @@
 
  </div>
 
+<div align="center">
+  <video width="100%" autoplay loop muted style="object-fit: cover; height: 350px; object-position: center;">
+    <source src="github_india_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 
 ###
 <br>
